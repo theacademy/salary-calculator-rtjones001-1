@@ -1,5 +1,6 @@
  # Java Practice: Employee Salary Calculator                           
 
+
 ## Overview
 
 In this activity, you will create a salary calculator that calculates an employee's weekly pay based on hours worked and the employee's hourly pay rate.
